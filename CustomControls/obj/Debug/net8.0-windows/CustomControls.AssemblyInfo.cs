@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("ControlDemoApp")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("CustomControls")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b4fbaa21427a22278bac5bbb126115788e34bc4c")]
-[assembly: System.Reflection.AssemblyProductAttribute("ControlDemoApp")]
-[assembly: System.Reflection.AssemblyTitleAttribute("ControlDemoApp")]
+[assembly: System.Reflection.AssemblyProductAttribute("CustomControls")]
+[assembly: System.Reflection.AssemblyTitleAttribute("CustomControls")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 [assembly: System.Runtime.Versioning.TargetPlatformAttribute("Windows7.0")]
 [assembly: System.Runtime.Versioning.SupportedOSPlatformAttribute("Windows7.0")]
