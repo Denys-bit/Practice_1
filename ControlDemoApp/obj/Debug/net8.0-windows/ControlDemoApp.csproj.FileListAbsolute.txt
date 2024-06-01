@@ -1,0 +1,14 @@
+C:\Users\DenysBorysenko\source\repos\Components\ControlDemoApp\bin\Debug\net8.0-windows\ControlDemoApp.exe
+C:\Users\DenysBorysenko\source\repos\Components\ControlDemoApp\bin\Debug\net8.0-windows\ControlDemoApp.deps.json
+C:\Users\DenysBorysenko\source\repos\Components\ControlDemoApp\bin\Debug\net8.0-windows\ControlDemoApp.runtimeconfig.json
+C:\Users\DenysBorysenko\source\repos\Components\ControlDemoApp\bin\Debug\net8.0-windows\ControlDemoApp.dll
+C:\Users\DenysBorysenko\source\repos\Components\ControlDemoApp\bin\Debug\net8.0-windows\ControlDemoApp.pdb
+C:\Users\DenysBorysenko\source\repos\Components\ControlDemoApp\obj\Debug\net8.0-windows\ControlDemoApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DenysBorysenko\source\repos\Components\ControlDemoApp\obj\Debug\net8.0-windows\ControlDemoApp.AssemblyInfoInputs.cache
+C:\Users\DenysBorysenko\source\repos\Components\ControlDemoApp\obj\Debug\net8.0-windows\ControlDemoApp.AssemblyInfo.cs
+C:\Users\DenysBorysenko\source\repos\Components\ControlDemoApp\obj\Debug\net8.0-windows\ControlDemoApp.csproj.CoreCompileInputs.cache
+C:\Users\DenysBorysenko\source\repos\Components\ControlDemoApp\obj\Debug\net8.0-windows\ControlDemoApp.dll
+C:\Users\DenysBorysenko\source\repos\Components\ControlDemoApp\obj\Debug\net8.0-windows\refint\ControlDemoApp.dll
+C:\Users\DenysBorysenko\source\repos\Components\ControlDemoApp\obj\Debug\net8.0-windows\ControlDemoApp.pdb
+C:\Users\DenysBorysenko\source\repos\Components\ControlDemoApp\obj\Debug\net8.0-windows\ControlDemoApp.genruntimeconfig.cache
+C:\Users\DenysBorysenko\source\repos\Components\ControlDemoApp\obj\Debug\net8.0-windows\ref\ControlDemoApp.dll
