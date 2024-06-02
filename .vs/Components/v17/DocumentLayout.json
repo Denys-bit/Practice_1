@@ -7,16 +7,20 @@
       "RelativeMoniker": "D:0:0:{448BD983-66D8-4C5D-99F5-7BF29B006811}|CustomControls\\CustomControls.csproj|solutionrelative:customcontrols\\customusercontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{448BD983-66D8-4C5D-99F5-7BF29B006811}|CustomControls\\CustomControls.csproj|c:\\users\\denysborysenko\\source\\repos\\components\\customcontrols\\customusercontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{448BD983-66D8-4C5D-99F5-7BF29B006811}|CustomControls\\CustomControls.csproj|solutionrelative:customcontrols\\customusercontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0844310-1669-4EF1-8EF3-56B91AA8E233}|ControlDemoApp\\ControlDemoApp.csproj|c:\\users\\denysborysenko\\source\\repos\\components\\controldemoapp\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0844310-1669-4EF1-8EF3-56B91AA8E233}|ControlDemoApp\\ControlDemoApp.csproj|solutionrelative:controldemoapp\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{448BD983-66D8-4C5D-99F5-7BF29B006811}|CustomControls\\CustomControls.csproj|c:\\users\\denysborysenko\\source\\repos\\components\\customcontrols\\customusercontrol.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{448BD983-66D8-4C5D-99F5-7BF29B006811}|CustomControls\\CustomControls.csproj|solutionrelative:customcontrols\\customusercontrol.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B0844310-1669-4EF1-8EF3-56B91AA8E233}|ControlDemoApp\\ControlDemoApp.csproj|c:\\users\\denysborysenko\\source\\repos\\components\\controldemoapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{B0844310-1669-4EF1-8EF3-56B91AA8E233}|ControlDemoApp\\ControlDemoApp.csproj|solutionrelative:controldemoapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{448BD983-66D8-4C5D-99F5-7BF29B006811}|CustomControls\\CustomControls.csproj|c:\\users\\denysborysenko\\source\\repos\\components\\customcontrols\\customusercontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{448BD983-66D8-4C5D-99F5-7BF29B006811}|CustomControls\\CustomControls.csproj|solutionrelative:customcontrols\\customusercontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -34,13 +38,26 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\DenysBorysenko\\source\\repos\\Components\\ControlDemoApp\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "ControlDemoApp\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\DenysBorysenko\\source\\repos\\Components\\ControlDemoApp\\Form1.Designer.cs",
+              "RelativeToolTip": "ControlDemoApp\\Form1.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T10:05:10.212Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "CustomUserControl.Designer.cs",
               "DocumentMoniker": "C:\\Users\\DenysBorysenko\\source\\repos\\Components\\CustomControls\\CustomUserControl.Designer.cs",
               "RelativeDocumentMoniker": "CustomControls\\CustomUserControl.Designer.cs",
               "ToolTip": "C:\\Users\\DenysBorysenko\\source\\repos\\Components\\CustomControls\\CustomUserControl.Designer.cs",
               "RelativeToolTip": "CustomControls\\CustomUserControl.Designer.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAD0AAAA3AAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADwAAAA3AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-02T10:28:01.264Z",
               "EditorCaption": ""
@@ -51,28 +68,28 @@
               "Title": "CustomUserControl.cs",
               "DocumentMoniker": "C:\\Users\\DenysBorysenko\\source\\repos\\Components\\CustomControls\\CustomUserControl.cs",
               "RelativeDocumentMoniker": "CustomControls\\CustomUserControl.cs",
-              "ToolTip": "C:\\Users\\DenysBorysenko\\source\\repos\\Components\\CustomControls\\CustomUserControl.cs",
-              "RelativeToolTip": "CustomControls\\CustomUserControl.cs",
-              "ViewState": "AQIAABgAAAAAAAAAAAAAADUAAAAJAAAA",
+              "ToolTip": "C:\\Users\\DenysBorysenko\\source\\repos\\Components\\CustomControls\\CustomUserControl.cs*",
+              "RelativeToolTip": "CustomControls\\CustomUserControl.cs*",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAACYAAAAtAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-02T09:33:12.292Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "CustomUserControl.cs [Design]",
               "DocumentMoniker": "C:\\Users\\DenysBorysenko\\source\\repos\\Components\\CustomControls\\CustomUserControl.cs",
               "RelativeDocumentMoniker": "CustomControls\\CustomUserControl.cs",
-              "ToolTip": "C:\\Users\\DenysBorysenko\\source\\repos\\Components\\CustomControls\\CustomUserControl.cs [Design]",
-              "RelativeToolTip": "CustomControls\\CustomUserControl.cs [Design]",
+              "ToolTip": "C:\\Users\\DenysBorysenko\\source\\repos\\Components\\CustomControls\\CustomUserControl.cs [Design]*",
+              "RelativeToolTip": "CustomControls\\CustomUserControl.cs [Design]*",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-02T08:18:20.074Z",
               "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "C:\\Users\\DenysBorysenko\\source\\repos\\Components\\ControlDemoApp\\Form1.cs",
               "RelativeDocumentMoniker": "ControlDemoApp\\Form1.cs",

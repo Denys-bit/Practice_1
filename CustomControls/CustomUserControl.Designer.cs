@@ -53,7 +53,6 @@
             monthCalendarStart.Margin = new Padding(10);
             monthCalendarStart.Name = "monthCalendarStart";
             monthCalendarStart.TabIndex = 1;
-            //monthCalendarStart.DateSelected += monthCalendarStart_DateSelected;
             // 
             // monthCalendarEnd
             // 
@@ -66,6 +65,7 @@
             // 
             labelInterval.AutoSize = true;
             labelInterval.Location = new Point(27, 303);
+            labelInterval.MaximumSize = new Size(450, 250);
             labelInterval.Name = "labelInterval";
             labelInterval.Size = new Size(113, 29);
             labelInterval.TabIndex = 3;

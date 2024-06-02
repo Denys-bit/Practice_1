@@ -36,7 +36,7 @@
 
             if (EndDate < StartDate)
             {
-                MessageBox.Show("Кінцева дата не може бути раніше початкової.");
+                labelInterval.Text = "EndDate, повинна мати більше значення за StartDate!";
                 return;
             }
 

@@ -35,7 +35,7 @@
             // 
             customUserControl1.EndDate = new DateTime(2024, 6, 2, 0, 0, 0, 0);
             customUserControl1.Font = new Font("Calibri", 18F, FontStyle.Regular, GraphicsUnit.Point, 204);
-            customUserControl1.Location = new Point(118, 36);
+            customUserControl1.Location = new Point(141, 36);
             customUserControl1.Margin = new Padding(5, 6, 5, 6);
             customUserControl1.Name = "customUserControl1";
             customUserControl1.Size = new Size(539, 355);
@@ -49,6 +49,7 @@
             ClientSize = new Size(800, 450);
             Controls.Add(customUserControl1);
             Name = "Form1";
+            StartPosition = FormStartPosition.CenterScreen;
             Text = "Form1";
             ResumeLayout(false);
         }
