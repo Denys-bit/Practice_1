@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CustomControls")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6d3004e3cfcaed9daeb897e2e1297fd718acb2a9")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+476960a1ae5726a8a6feb6c1848bbe27ae51130f")]
 [assembly: System.Reflection.AssemblyProductAttribute("CustomControls")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CustomControls")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

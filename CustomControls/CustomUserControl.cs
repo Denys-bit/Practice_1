@@ -1,5 +1,6 @@
 ﻿namespace CustomControls
 {
+    [ToolboxBitmap(@"C:\Users\DenysBorysenko\source\repos\Components\CustomControls\CustomUserControl.ico")]
     public partial class CustomUserControl : UserControl
     {
         public CustomUserControl()
