@@ -12,3 +12,9 @@ C:\Users\DenysBorysenko\source\repos\Components\ControlDemoApp\obj\Debug\net8.0-
 C:\Users\DenysBorysenko\source\repos\Components\ControlDemoApp\obj\Debug\net8.0-windows\ControlDemoApp.pdb
 C:\Users\DenysBorysenko\source\repos\Components\ControlDemoApp\obj\Debug\net8.0-windows\ControlDemoApp.genruntimeconfig.cache
 C:\Users\DenysBorysenko\source\repos\Components\ControlDemoApp\obj\Debug\net8.0-windows\ref\ControlDemoApp.dll
+C:\Users\DenysBorysenko\source\repos\Components\ControlDemoApp\obj\Debug\net8.0-windows\ControlDemoApp.Form1.resources
+C:\Users\DenysBorysenko\source\repos\Components\ControlDemoApp\obj\Debug\net8.0-windows\ControlDemoApp.csproj.GenerateResource.cache
+C:\Users\DenysBorysenko\source\repos\Components\ControlDemoApp\bin\Debug\net8.0-windows\CustomControls.dll
+C:\Users\DenysBorysenko\source\repos\Components\ControlDemoApp\bin\Debug\net8.0-windows\CustomControls.pdb
+C:\Users\DenysBorysenko\source\repos\Components\ControlDemoApp\obj\Debug\net8.0-windows\ControlDemoApp.csproj.AssemblyReference.cache
+C:\Users\DenysBorysenko\source\repos\Components\ControlDemoApp\obj\Debug\net8.0-windows\ControlD.12F47D06.Up2Date

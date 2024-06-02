@@ -1,0 +1,13 @@
+C:\Users\DenysBorysenko\source\repos\Components\CustomControls\bin\Debug\net8.0-windows\CustomControls.deps.json
+C:\Users\DenysBorysenko\source\repos\Components\CustomControls\bin\Debug\net8.0-windows\CustomControls.dll
+C:\Users\DenysBorysenko\source\repos\Components\CustomControls\bin\Debug\net8.0-windows\CustomControls.pdb
+C:\Users\DenysBorysenko\source\repos\Components\CustomControls\obj\Debug\net8.0-windows\CustomControls.CustomUserControl.resources
+C:\Users\DenysBorysenko\source\repos\Components\CustomControls\obj\Debug\net8.0-windows\CustomControls.csproj.GenerateResource.cache
+C:\Users\DenysBorysenko\source\repos\Components\CustomControls\obj\Debug\net8.0-windows\CustomControls.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DenysBorysenko\source\repos\Components\CustomControls\obj\Debug\net8.0-windows\CustomControls.AssemblyInfoInputs.cache
+C:\Users\DenysBorysenko\source\repos\Components\CustomControls\obj\Debug\net8.0-windows\CustomControls.AssemblyInfo.cs
+C:\Users\DenysBorysenko\source\repos\Components\CustomControls\obj\Debug\net8.0-windows\CustomControls.csproj.CoreCompileInputs.cache
+C:\Users\DenysBorysenko\source\repos\Components\CustomControls\obj\Debug\net8.0-windows\CustomControls.dll
+C:\Users\DenysBorysenko\source\repos\Components\CustomControls\obj\Debug\net8.0-windows\refint\CustomControls.dll
+C:\Users\DenysBorysenko\source\repos\Components\CustomControls\obj\Debug\net8.0-windows\CustomControls.pdb
+C:\Users\DenysBorysenko\source\repos\Components\CustomControls\obj\Debug\net8.0-windows\ref\CustomControls.dll

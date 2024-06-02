@@ -28,12 +28,33 @@
         /// </summary>
         private void InitializeComponent()
         {
-            this.components = new System.ComponentModel.Container();
-            this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(800, 450);
-            this.Text = "Form1";
+            customUserControl1 = new CustomControls.CustomUserControl();
+            SuspendLayout();
+            // 
+            // customUserControl1
+            // 
+            customUserControl1.EndDate = new DateTime(2024, 6, 2, 0, 0, 0, 0);
+            customUserControl1.Font = new Font("Calibri", 18F, FontStyle.Regular, GraphicsUnit.Point, 204);
+            customUserControl1.Location = new Point(118, 36);
+            customUserControl1.Margin = new Padding(5, 6, 5, 6);
+            customUserControl1.Name = "customUserControl1";
+            customUserControl1.Size = new Size(539, 355);
+            customUserControl1.StartDate = new DateTime(2024, 6, 2, 0, 0, 0, 0);
+            customUserControl1.TabIndex = 0;
+            // 
+            // Form1
+            // 
+            AutoScaleDimensions = new SizeF(7F, 15F);
+            AutoScaleMode = AutoScaleMode.Font;
+            ClientSize = new Size(800, 450);
+            Controls.Add(customUserControl1);
+            Name = "Form1";
+            Text = "Form1";
+            ResumeLayout(false);
         }
 
         #endregion
+
+        private CustomControls.CustomUserControl customUserControl1;
     }
 }
